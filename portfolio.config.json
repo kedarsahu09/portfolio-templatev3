@@ -1,0 +1,88 @@
+{
+  "name": "Kedar Nath Sahu",
+  "title": "Cloud Security Consultant",
+  "tagline": "Cloud Security Consultant with 18+ years of IT experience, helping enterprises close security gaps across cloud, endpoints, Cloud Apps, data and identity. Specialised in Microsoft Security, Wiz CSPM, Azure Security and EDR.",
+  "photo": "/profile.png",
+  "about": [
+    "I help enterprises find and close security gaps. As a Cybersecurity Consultant at Wipro, I work across cloud security, endpoint security, identity and Microsoft 365, with a focus on Microsoft Security and Wiz Cloud/Wiz Code."
+  ],
+  "skills": [
+    "Cloud Security",
+    "Microsoft Security",
+    "Endpoint & IAM"
+  ],
+  "experience": [
+    {
+      "role": "Cybersecurity Consultant",
+      "company": "Wipro Technologies",
+      "period": "Feb 2022 — Present",
+      "details": [
+        "Manage and support Wiz CSPM for cloud security posture visibility, security assessment and risk management.",
+        "Design and implement Microsoft 365 Defender across Endpoint, Office 365, Identity, Cloud Apps and Defender for Cloud.",
+        "Deliver Defender for Endpoint onboarding, AV and ASR policies, and CrowdStrike/Trellix migration using Intune, Defender for Cloud, SCCM and GPO."
+      ]
+    },
+    {
+      "role": "Noida Azure Security / Cloud Consultant",
+      "company": "HCL Technologies",
+      "period": "Aug 2016 — Feb 2022",
+      "details": [
+        "Implemented Azure Security and IAM across Entra ID, Identity Protection, Conditional Access, RBAC, PIM, MFA and enterprise applications.",
+        "Supported hybrid identity, Azure network security, Key Vault, Azure Policy, Azure Arc and secure Azure Virtual Desktop environments.",
+        "Collaborated across infrastructure, identity, network and security teams, including two onsite engagements in the Netherlands."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Sc. (Information Technology)",
+      "school": "VMDU, Tamil Nadu",
+      "period": "2011"
+    },
+    {
+      "degree": "3-Year Polytechnic Diploma",
+      "school": "Electronics, Fiber Optics & Communication Government Polytechnic College, Jodhpur",
+      "period": "2003 — 2006"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Endpoint Security / Microso",
+      "description": "Endpoint Security Migration\nSupported enterprise migration from CrowdStrike and Trellix to Microsoft Defender for Endpoint, with AV and ASR policies through Intune and GPO.",
+      "link": "",
+      "image": "/placeholder-project.svg"
+    },
+    {
+      "title": "Cloud Security / Wiz",
+      "description": "Cloud Security Posture with Wiz\nCloud security posture visibility, security assessment and risk management across cloud environments.",
+      "link": "",
+      "image": "/placeholder-project.svg"
+    }
+  ],
+  "certifications": [
+    "sc900",
+    "sc200",
+    "sc400",
+    "az500"
+  ],
+  "contact": {
+    "email": "kedarsahu09@gmail.com",
+    "phone": "09711276986",
+    "location": "Gautambuddha nagar"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/kedarsahu2007",
+    "github": "https://github.com/kedarsahu09",
+    "twitter": "https://x.com/kedarsahu09"
+  },
+  "mentoring": {
+    "enabled": false,
+    "headline": "Mentor with Kedar",
+    "description": "Career guidance, mentorship and AI tools coaching from an engineer with 18+ years of IT experience, who has worked across the MNCs HP, TCS, HCL and Wipro.",
+    "topmateUrl": "https://topmate.io/kedarnathsahu"
+  },
+  "blog": {
+    "enabled": false,
+    "posts": []
+  }
+}
